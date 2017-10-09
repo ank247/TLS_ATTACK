@@ -4,8 +4,6 @@
 //  #include <math.h>
  #include <stdlib.h>
 
- int pow(int a , int b) ;
-
  int pow(int a , int b)
  {
  
